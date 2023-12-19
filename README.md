@@ -10,4 +10,4 @@ A passionate aspiring software developer from South Africa.
 - 📫 How to reach me: world.mjdlomo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I think I'm funny.
--->
+-->.
