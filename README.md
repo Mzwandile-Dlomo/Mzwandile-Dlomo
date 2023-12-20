@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mzwandile Dlomo
+### Hi there 👋 I am Mzwandile (MJ) Dlomo
 
 A passionate aspiring software developer from South Africa. Welcome to my GitHub profile!
 
