@@ -10,17 +10,16 @@ Welcome to my digital hub! 👋 I'm Mzwandile Dlomo, a spirited individual deepl
 
 
 🌈 Journey of Aspiration:
-   -Currently embarked on an exciting expedition, I am crafting my path into the world of code with boundless enthusiasm. 🚀 My journey unfolds with every line of code I 
-   write, and I am fueled by the dream of becoming a distinguished software engineer.
+   - Currently embarked on an exciting expedition, I am crafting my path into the world of code with boundless enthusiasm. 🚀 My journey unfolds with every line of code I write, and I am fueled by the dream of becoming a distinguished software engineer.
 
 👨‍💻 Code Artisan:
-   -Turning lines of code into elegant solutions is my craft. I find joy in the artistry of problem-solving
+   - Turning lines of code into elegant solutions is my craft. I find joy in the artistry of problem-solving
 
 🚧 Building Tomorrow's Tech Today:
-   -In my startup venture, I'm weaving dreams into code, building the foundation for a future where technology serves as a catalyst for positive change. 💡
+   - In my startup venture, I'm weaving dreams into code, building the foundation for a future where technology serves as a catalyst for positive change. 💡
 
 🌟 Let's Connect:
-   -I'm always eager to connect with fellow tech enthusiasts, mentors, and anyone passionate about the limitless possibilities of technology. Feel free to reach out, and let's build something extraordinary together!
+   - I'm always eager to connect with fellow tech enthusiasts, mentors, and anyone passionate about the limitless possibilities of technology. Feel free to reach out, and let's build something extraordinary together!
 
 💬 "In the world of bits and bytes, I find my rhythm. Here, where logic meets creativity, I am home." 🏡
 
