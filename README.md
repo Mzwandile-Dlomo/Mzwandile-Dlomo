@@ -3,14 +3,15 @@
 Welcome to my digital hub! 👋 I'm Mzwandile Dlomo, a spirited individual deeply passionate about the art and science of software engineering. 🖥️
 
 👨‍💻 What Drives Me:
-   -  Driven by an insatiable curiosity and a fervent love for problem-solving
-  🌈 Believer in using technology to shape a brighter future.
-  ⚙️ Thrive on turning complex problems into elegant, efficient, and user-friendly solutions.
-  🚧 Enjoyment.
+   -  Driven by an insatiable curiosity and a fervent love for problem-solving.
+   - 🌈 Believer in using technology to shape a brighter future.
+   - ⚙️ Thrive on turning complex problems into elegant, efficient, and user-friendly solutions.
+   - 🚧 Enjoyment.
 
 
 🌈 Journey of Aspiration:
-   - Currently embarked on an exciting expedition, I am crafting my path into the world of code with boundless enthusiasm. 🚀 My journey unfolds with every line of code I write, and I am fueled by the dream of becoming a distinguished software engineer.
+   - Currently embarked on an exciting expedition, I am crafting my path into the world of code with boundless enthusiasm.
+   - 🚀 My journey unfolds with every line of code I write, and I am fueled by the dream of becoming a distinguished software engineer.
 
 👨‍💻 Code Artisan:
    - Turning lines of code into elegant solutions is my craft. I find joy in the artistry of problem-solving
